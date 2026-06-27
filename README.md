@@ -25,7 +25,7 @@ public class Naveenkumar {
 }
 ```
 
-- 🎓 3rd-year **Integrated M.Tech Software Engineering** student at **VIT Vellore**
+- 🎓 4rd-year **Integrated M.Tech Software Engineering** student at **VIT Vellore**
 - 🔭 Currently building **AI-powered backend systems** with Java & Python
 - 🌱 Passionate about **LLM integration**, **privacy engineering**, and **scalable APIs**
 - ⚡ I love turning complex problems into clean, production-ready backends
