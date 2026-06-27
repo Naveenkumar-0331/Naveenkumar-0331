@@ -2,14 +2,9 @@
 
 # Hey there! I'm Naveenkumar 👋
 ### Software Engineering Student · Backend Developer · AI Enthusiast
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveen-kumar-5b5abb289)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Naveenkumar-0331)
-
 </div>
 
 ---
-
 ## 🙋‍♂️ About Me
 
 ```java
@@ -24,13 +19,6 @@ public class Naveenkumar {
     String motto     = "Build things that matter.";
 }
 ```
-
-- 🎓 4rd-year **Integrated M.Tech Software Engineering** student at **VIT Vellore**
-- 🔭 Currently building **AI-powered backend systems** with Java & Python
-- 🌱 Passionate about **LLM integration**, **privacy engineering**, and **scalable APIs**
-- ⚡ I love turning complex problems into clean, production-ready backends
-
----
 
 ## 🛠️ Tech Stack
 
@@ -120,7 +108,6 @@ public class Naveenkumar {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveen-kumar-5b5abb289)
-[![GitHub](https://img.shields.io/badge/Check_out_my_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Naveenkumar-0331)
 
 </div>
 
