@@ -17,7 +17,7 @@ public class Naveenkumar {
 
     String degree    = "Integrated M.Tech Software Engineering";
     String college   = "VIT Vellore (VITiAN 2028)";
-    String year      = "3rd Year";
+    String year      = "4rd Year";
 
     String[] focus   = { "Backend Systems", "AI Integration", "Machine Learning" };
     String[] langs   = { "Java", "Python" };
